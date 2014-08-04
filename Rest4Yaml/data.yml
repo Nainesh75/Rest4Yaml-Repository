@@ -1,0 +1,73 @@
+!com.citi.JavaObject
+name: Sree Bodapati
+itemList: 
+- !com.citi.Item
+   itemCode: TV-1
+   itemDescription: LG 3D Cinema 43 inch TV w/ 4 glasses
+   itemManufacturer: LG
+   itemName: LG 3D Cinema 43 inch
+   itemPrice: 510.0
+   quantityAvailable: 11
+- !com.citi.Item
+   itemCode: TV-2
+   itemDescription: LG 3D Cinema 44 inch TV w/ 4 glasses
+   itemManufacturer: LG
+   itemName: LG 3D Cinema 44 inch
+   itemPrice: 520.0
+   quantityAvailable: 12
+- !com.citi.Item
+   itemCode: TV-3
+   itemDescription: LG 3D Cinema 45 inch TV w/ 4 glasses
+   itemManufacturer: LG
+   itemName: LG 3D Cinema 45 inch
+   itemPrice: 530.0
+   quantityAvailable: 13
+- !com.citi.Item
+   itemCode: TV-4
+   itemDescription: LG 3D Cinema 46 inch TV w/ 4 glasses
+   itemManufacturer: LG
+   itemName: LG 3D Cinema 46 inch
+   itemPrice: 540.0
+   quantityAvailable: 14
+- !com.citi.Item
+   itemCode: TV-5
+   itemDescription: LG 3D Cinema 47 inch TV w/ 4 glasses
+   itemManufacturer: LG
+   itemName: LG 3D Cinema 47 inch
+   itemPrice: 550.0
+   quantityAvailable: 15
+- !com.citi.Item
+   itemCode: TV-6
+   itemDescription: LG 3D Cinema 48 inch TV w/ 4 glasses
+   itemManufacturer: LG
+   itemName: LG 3D Cinema 48 inch
+   itemPrice: 560.0
+   quantityAvailable: 16
+- !com.citi.Item
+   itemCode: TV-7
+   itemDescription: LG 3D Cinema 49 inch TV w/ 4 glasses
+   itemManufacturer: LG
+   itemName: LG 3D Cinema 49 inch
+   itemPrice: 570.0
+   quantityAvailable: 17
+- !com.citi.Item
+   itemCode: TV-8
+   itemDescription: LG 3D Cinema 50 inch TV w/ 4 glasses
+   itemManufacturer: LG
+   itemName: LG 3D Cinema 50 inch
+   itemPrice: 580.0
+   quantityAvailable: 18
+- !com.citi.Item
+   itemCode: TV-9
+   itemDescription: LG 3D Cinema 51 inch TV w/ 4 glasses
+   itemManufacturer: LG
+   itemName: LG 3D Cinema 51 inch
+   itemPrice: 590.0
+   quantityAvailable: 19
+- !com.citi.Item
+   itemCode: TV-10
+   itemDescription: LG 3D Cinema 52 inch TV w/ 4 glasses
+   itemManufacturer: LG
+   itemName: LG 3D Cinema 52 inch
+   itemPrice: 600.0
+   quantityAvailable: 20

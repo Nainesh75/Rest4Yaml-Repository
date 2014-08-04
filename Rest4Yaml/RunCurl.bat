@@ -1,0 +1,1 @@
+C:\downloads\curl-7.33.0-win64-nossl\curl.exe   http://localhost:8080/Rest4Yaml/getYaml/inplaintext
