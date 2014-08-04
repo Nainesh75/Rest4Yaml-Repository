@@ -3,6 +3,10 @@ Rest4Yaml-Repository
 
 Read YAML file and list it's contents using REST Apis
 
+<H1> Watch video "How to run recording.wmv" <H1>
+Please watch video "How to run recording.wmv" placed inside Rest4Yaml folder
+OR Read Step by Step instructions below:
+
 <H1> Step 1-Import Project </H1>
 Donwload the zip file from Github and unzip it in some folder
 Start Eclipse with a blank workspace
