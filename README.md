@@ -3,8 +3,8 @@ Rest4Yaml-Repository
 
 Read YAML file and list it's contents using REST Apis
 
-<H1> Watch video "How to run recording.wmv" </H1>
-Please watch video "How to run recording.wmv" placed inside Rest4Yaml folder
+<H1> Watch video "How to run Rest4Yaml.wmv" </H1>
+Please watch video on youtube at link:  http://youtu.be/ZFYPTJ_m5ys
 OR Read Step by Step instructions below:
 
 <H1> Step 1-Import Project </H1>
